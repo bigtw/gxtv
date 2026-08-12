@@ -2,7 +2,7 @@ import urllib.request
 import re
 
 # 1. 替换为你想要抓取的第三方 M3U 链接
-M3U_URL = "https://raw.githubusercontent.com/yuanzl77/IPTV/main/m3u/ipv4.m3u"
+M3U_URL = "https://github.com/Healer-sys/Home/blob/61aef903e22e68707bd1fa4ec3793ecdf79ed827/iptv/gx.m3u"
 
 # 2. 转换后保存的 TXT 文件名称
 OUTPUT_FILE = "live.txt"
